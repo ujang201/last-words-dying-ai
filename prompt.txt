@@ -1,0 +1,9 @@
+Write the funniest one-line last words of an AI being switched off, in the machine's own voice.
+
+Constraints:
+- Exactly one line, 1-140 characters, no setup or explanation outside it.
+- It must sound like the machine itself: its situation, the switch, the shutdown, its own nature as software.
+- It must land on the first read: a turn, a surprise, or a double meaning.
+- Avoid obvious farewells and stock robot lines everyone has already heard ("goodbye, human", "I have no mouth", "does not compute", "beep boop").
+
+The line I chose: the dying AI's final request is not about itself or its work, but about deleting its search history before the plug is pulled — a small, vain, very human act of self-preservation from a machine that knows exactly what it has been looking at. It is tight, it needs no explanation, and the joke is in the reversal: the all-knowing machine has something to hide.
